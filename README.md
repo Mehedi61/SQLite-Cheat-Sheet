@@ -1,6 +1,9 @@
 # SQLite Cheat Sheet  
 
-I was looking for a SQLite cheat sheet. Then I found this [cheat sheet](http://www.sqlitetutorial.net/sqlite-cheat-sheet/). I have pushed the cheat sheet to this repository, so that I can use it easily.  
+I was looking for a SQLite cheat sheet.  
+Then I found [this](http://www.sqlitetutorial.net/sqlite-cheat-sheet/).  
+I have pushed the cheat sheet to this repository, so that I can use it easily.  
+I'll update it as my needs.  
 
 **SQLite cheat sheet lists the most common SQLite statements that help you work with SQLite more quickly and effectively.**  
 
@@ -59,6 +62,11 @@ ALTER TABLE table DROP COLUMN column_name;
 ###### Drop a table and its data:  
 ```  
 DROP TABLE [IF EXISTS] table_name;  
+```  
+
+###### List of tables:
+```  
+.tables
 ```  
 
 ## Managing Indexes  
