@@ -24,6 +24,7 @@ CREATE TABLE [IF NOT EXISTS] table(
    column_name type NULL,  
    ...  
 );  
+  
 
 ###### Rename a table:  
 
