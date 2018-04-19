@@ -16,6 +16,13 @@ sqlite3 database_name.db
 ```  
 ATTACH DATABASE file_name AS database_name;  
 ```  
+
+###### List names and files of attached databases:
+
+```  
+.databases
+```  
+
 ###### Optimize the database:  
 ```  
 VACCUM  
