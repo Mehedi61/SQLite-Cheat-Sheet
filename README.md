@@ -4,13 +4,19 @@ I was looking for a SQLite cheat sheet. Then I found this [cheat sheet](http://w
 
 **SQLite cheat sheet lists the most common SQLite statements that help you work with SQLite more quickly and effectively.**  
 
+## Creating Database:
+
+```  
+sqlite3 database_name.db
+```  
+
 ## Managing databases  
 ###### Attach another database to the current database connection:  
 
 ```  
 ATTACH DATABASE file_name AS database_name;  
 ```  
-Optimize the database:  
+###### Optimize the database:  
 ```  
 VACCUM  
 ```  
