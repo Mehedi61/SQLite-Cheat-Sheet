@@ -1,7 +1,6 @@
 # SQLite Cheat Sheet  
 
-I was looking for a SQLite cheat sheet.  
-Then I found [this](http://www.sqlitetutorial.net/sqlite-cheat-sheet/).  
+I was looking for a SQLite cheat sheet.Then I found [this](http://www.sqlitetutorial.net/sqlite-cheat-sheet/).  
 I have pushed the cheat sheet to this repository, so that I can use it easily.  
 I'll update it as my needs.  
 
