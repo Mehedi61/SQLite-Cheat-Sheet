@@ -215,7 +215,7 @@ WHERE condition;
 ###### Search using LIKE operator:  
 ```  
 SELECT * FROM table  
-WHERE column LIKE '%value%'  
+WHERE column LIKE '%value%';  
 ```  
 
 ###### Search using full-text search:  
